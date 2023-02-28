@@ -26,7 +26,7 @@ You may choose any programming language that you feel comfortable with. Starter 
 
 Examples of training different algorithms are abundant online. The following are great for starting out:
 - [Applied ML in python](https://github.com/tfolkman/byu_econ_applied_machine_learning/tree/master/lectures) written in jupyter notebook
-- [Kaggle ML tutorial in R](https://www.kaggle.com/camnugent/introduction-to-machine-learning-in-r-tutorial)
+- [Hands-on ML in R](https://bradleyboehmke.github.io/HOML/) and [Kaggle ML tutorial in R](https://www.kaggle.com/camnugent/introduction-to-machine-learning-in-r-tutorial)
 - [scikit-learn](https://scikit-learn.org/stable/tutorial/index.html) official tutorial for python users
 - [R-bloggers post](https://www.r-bloggers.com/2022/02/beginners-guide-to-machine-learning-in-r-with-step-by-step-tutorial/) laying out keys steps in the pipeline
 
