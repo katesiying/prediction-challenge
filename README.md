@@ -25,7 +25,7 @@ This exercise is intended to give you some handson experience with building actu
 You may choose any programming language that you feel comfortable with. Starter code is provided in python and R. We have not covered deep learning yet, so just experiment with regularized regression, trees, and random forests for now.
 
 Examples of training different algorithms are abundant online. The following are great for starting out:
-- [Applied ML in python](https://github.com/tfolkman/byu_econ_applied_machine_learning/tree/master/lectures), [Mini crash course on ML](https://github.com/PrincetonUniversity/intro_machine_learning), written in jupyter notebook
+- [Matteo Courthoud notes](https://matteocourthoud.github.io/course/ml-econ/), [Applied ML in python](https://github.com/tfolkman/byu_econ_applied_machine_learning/tree/master/lectures), [Mini crash course on ML](https://github.com/PrincetonUniversity/intro_machine_learning), written in jupyter notebook
 - [Hands-on ML in R](https://bradleyboehmke.github.io/HOML/) and [Kaggle ML tutorial in R](https://www.kaggle.com/camnugent/introduction-to-machine-learning-in-r-tutorial)
 - [scikit-learn](https://scikit-learn.org/stable/tutorial/index.html) official tutorial for python users
 - [R-bloggers post](https://www.r-bloggers.com/2022/02/beginners-guide-to-machine-learning-in-r-with-step-by-step-tutorial/) laying out keys steps in the pipeline
