@@ -10,7 +10,7 @@ To predict total medicial expenditure `exptot`, you will build predictive algori
 ## Guidelines
 Before you start to build models, warm up and get a sense of the data by loading it into your computer and forming table of summary statistics. Then you are in a good shape to come up with predictors of medical expenses.
 
-Once you complete the prediction challenge (i.e., obtain the best algorithm that you can come up with), you will use your algorithm to predict medical spending for the observations in the hold-out set `meps_holdout.csv`. Note that this data currently does not list the actual `exptot` variable. On Monday nigiht at 8pm, I will release the ground truth, so that you can evaluate the performance of your algorithm.
+Once you complete the prediction challenge (i.e., obtain the best algorithm that you can come up with), you will use your algorithm to predict medical spending for the observations in the hold-out set `meps_holdout.csv`. Note that this data currently does not list the actual `exptot` variable. On Monday morning, I will release the ground truth, so that you can evaluate the performance of your algorithm.
 
 This exercise is intended to give you some handson experience with building actual prediction algorithms. It will not be graded. However, to help you reflect on some of the themes we talked about, note the following:
 
